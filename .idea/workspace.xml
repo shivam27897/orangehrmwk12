@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ef0685e0-a906-46ea-9a70-dde309b391dd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/orange/hrm/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/orange/hrm/customlisteners/CustomListeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/orange/hrm/driverfactory/ManageDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/orange/hrm/page/AddUserPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/orange/hrm/page/AdminPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/orange/hrm/page/DashboardPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/orange/hrm/page/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/orange/hrm/page/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/orange/hrm/page/ViewSystemUsersPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/orange/hrm/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/orange/hrm/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/orange/hrm/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/orange/hrm/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/orange/hrm/testng/RetryAnalyser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/orange/hrm/testng/TestNGDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/orange/hrm/testng/TestNGGrouping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/orange/hrm/testng/TestNGListeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/orange/hrm/testng/TestNGListenersDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/orange/hrm/testng/TestNGParameterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/orange/hrm/testng/TestNGPriority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/orange/hrm/testng/TestNGRetryFailedDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/orange/hrm/testng/TestNGSoftAssert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/orange/hrm/testsuite/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/orange/hrm/testsuite/UsersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/runners/listeners.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/runners/parallel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/runners/parameters.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/runners/reportng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/runners/senity.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/runners/smoke.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/runners/testngdemo.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2L8SzU57EKiHthDSywDAmIb7ewG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Homework/orange-hrm/src/main/java/com/orange/hrm&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Homework\orange-hrm\src\main\java\com\orange\hrm" />
+      <recent name="C:\Homework\orange-hrm\src\test\java\resources" />
+      <recent name="C:\Homework\orange-hrm\src\test\java\com\orange\hrm" />
+      <recent name="C:\Homework\orange-hrm\src\test\java" />
+      <recent name="C:\Homework\orange-hrm\src\test\java\resources\propertiesfiles" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.orange.hrm.testbase" />
+      <recent name="com.orange.hrm.utility" />
+      <recent name="com.orange.hrm.propertyreader" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.UsersTest.searchTheUserCreatedAndVerifyIt">
+    <configuration name="C:/Homework/orange-hrm/src/test/java/resources/runners/reportng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="orange-hrm" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/resources/runners/reportng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.verifyTheLogoDisplayOnHomePage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="orange-hrm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.orange.hrm.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.orange.hrm.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.orange.hrm.testsuite.LoginTest" />
+      <option name="METHOD_NAME" value="verifyTheLogoDisplayOnHomePage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.verifyUserShouldLogoutSuccessFully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="orange-hrm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.orange.hrm.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.orange.hrm.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.orange.hrm.testsuite.LoginTest" />
+      <option name="METHOD_NAME" value="verifyUserShouldLogoutSuccessFully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsersTest.adminShouldAddUserSuccessFully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="orange-hrm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.orange.hrm.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.orange.hrm.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.orange.hrm.testsuite.UsersTest" />
+      <option name="METHOD_NAME" value="adminShouldAddUserSuccessFully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsersTest.searchTheUserCreatedAndVerifyIt" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="orange-hrm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.orange.hrm.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.orange.hrm.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.orange.hrm.testsuite.UsersTest" />
+      <option name="METHOD_NAME" value="searchTheUserCreatedAndVerifyIt" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.UsersTest.searchTheUserCreatedAndVerifyIt" />
+        <item itemvalue="TestNG.C:/Homework/orange-hrm/src/test/java/resources/runners/reportng.xml" />
+        <item itemvalue="TestNG.UsersTest.adminShouldAddUserSuccessFully" />
+        <item itemvalue="TestNG.LoginTest.verifyTheLogoDisplayOnHomePage" />
+        <item itemvalue="TestNG.LoginTest.verifyUserShouldLogoutSuccessFully" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef0685e0-a906-46ea-9a70-dde309b391dd" name="Changes" comment="" />
+      <created>1675251480356</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675251480356</updated>
+    </task>
+    <servers />
+  </component>
+</project>
